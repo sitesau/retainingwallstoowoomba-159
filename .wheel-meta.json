@@ -1,0 +1,22 @@
+{
+  "wheel_id": 790,
+  "structure": "umbrella",
+  "slug": "retainingwallstoowoomba-159",
+  "project": "retaining-wall-contractors-toowoomba-beginner-guide-b31719bf57b",
+  "parent_t1_ref": "retainingwallstoowoomba-015",
+  "node_role": "buffer",
+  "money_target": "retainingwallstoowoomba.com.au",
+  "primary_kw": "retaining wall contractors toowoomba beginner guide",
+  "intended_url": "https://sitesau.github.io/retainingwallstoowoomba-159/",
+  "tier": "T2",
+  "writeback_nonce": "60a0ef1aae932b86",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/retaining-wall-contractors-toowoomba/",
+      "anchor": "this guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "generic"
+    }
+  ]
+}
